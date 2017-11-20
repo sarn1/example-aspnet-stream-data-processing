@@ -4,7 +4,7 @@
 C# Streams and Data Processing
 https://teamtreehouse.com/library/c-streams-and-data-processing
  
-** Program.cs **
+**Program.cs**
 1. Output all available files
 2. Output content from a text file.
 3. Output all data from a CSV.
@@ -12,7 +12,7 @@ https://teamtreehouse.com/library/c-streams-and-data-processing
 5. Using JSON NuGet to serialize/deserialize data
 6. Write to file.
 
-**General Notes **
+**General Notes**
 - Create new text file by adding to solution, but then pull it out of "Solution Files" into root.  Then you can right click and go to property to set `Copy to Output Directory` to `copy if newer`
 - UTF-8 for text, UTF-16 when creating within .NET.
 - Use `ref` and `out` for pass by reference and pass by value.  Reference is 2-way, while out is out-only.
@@ -44,4 +44,3 @@ public class WeatherForecast
 - `Newtonsoft.Json` is a NuGet.  
 - http://newtonsoft.com/json/help/html/SerializingJSON.htm
 - [Google: `json serialize property to different name` basicaly when you want to rename the attribute differently from what's in the file.](https://stackoverflow.com/questions/8796618/how-can-i-change-property-names-when-serializing-with-json-net)
-- 
