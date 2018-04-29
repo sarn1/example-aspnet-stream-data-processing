@@ -3,7 +3,9 @@
 
 C# Streams and Data Processing
 https://teamtreehouse.com/library/c-streams-and-data-processing
- 
+
+![screenshot](https://github.com/sarn1/example-aspnet-streams-data-processing/blob/master/screenshot.png)
+
 **Program.cs**
 1. Output all available files
 2. Output content from a text file.
